@@ -13,7 +13,7 @@ Before you begin, ensure you have the following installed:
 `npm install`
 
 4. Start the server\
-`npm start`\
+`nodemon app`\
 The server should start on the port 3000.
 
 **Database**\
